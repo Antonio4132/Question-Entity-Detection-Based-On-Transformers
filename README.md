@@ -22,6 +22,6 @@ The model should infer that the detected tissue is the eye. There are 3 entites 
 
 The experiments are further discribed on their respectives readmes, but a short description is given:
 
-1. **EE-NER**
-2. **EE-Especie**
-3. **EE-BERT-T5**
+1. **EE-NER**: Show the use of biological NERs of the stanza colection to detect the entities and perform data augmentation.
+2. **EE-Especie**: Uses question-generation transformers to create the dataset and a fine-tuned BERT to clasify the specie entities.
+3. **EE-BERT-T5**: Uses a general version of the question generation technique to extend its use to any entities and tries sentence transformers as a new approach to the entity detection.
