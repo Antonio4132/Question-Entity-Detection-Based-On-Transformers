@@ -1,0 +1,8 @@
+name: requisitesEnv
+channels:
+  - conda-forge
+  - stanfordnlp
+dependencies:
+  - stanza
+  - owlready2
+  - pandas
