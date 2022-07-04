@@ -1,0 +1,11 @@
+name: modelEnv
+channels:
+  - conda-forge
+dependencies:
+  - Python=3.8.5
+  - transformers
+  - pytorch
+  - torchvision
+  - scikit-learn
+  - pandas
+  - numpy
