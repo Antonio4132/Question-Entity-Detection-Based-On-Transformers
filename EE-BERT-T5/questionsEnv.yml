@@ -1,0 +1,12 @@
+name: questionsEnv
+channels:
+  - conda-forge
+dependencies:
+  - Python=3.8.5
+  - transformers
+  - PyTorch
+  - pandas
+  - nltk
+  - sentencepiece
+  - protobuf
+  - tokenizers

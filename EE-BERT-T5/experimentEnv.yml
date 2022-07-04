@@ -1,0 +1,7 @@
+name: experimentEnv
+channels:
+  - conda-forge
+dependencies:
+  - sentence-transformers
+  - scikit-learn
+  - numpy
