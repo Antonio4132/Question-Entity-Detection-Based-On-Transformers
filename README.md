@@ -20,7 +20,7 @@ The model should infer that the detected tissue is the eye. There are 3 entites 
 
 3 Experiments were conducted to try to solve this task. Furthermore, the EE-NER experiment tackles only the creation of the labeled dataset, while the other 2 focus on creating the detector as well. 
 
-The experiments are further discribe on their respectives readmes, but a short description is given:
+The experiments are further discribed on their respectives readmes, but a short description is given:
 
 1. **EE-NER**
 2. **EE-Especie**
